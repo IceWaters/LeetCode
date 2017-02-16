@@ -1,8 +1,4 @@
-class ListNode {
-     int val;
-     ListNode next;
-     ListNode(int x) { val = x; }
-}
+import Util.ListNode;
 
 public class MergeKSortedLists {
 	
